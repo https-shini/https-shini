@@ -35,7 +35,6 @@
   </a>
   <a href="mailto:contato.guilhermescruz@gmail.com"  target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img align="center" src="https://komarev.com/ghpvc/?username=https-shini&color=red" alt="Profile views" />
   </a>
 </p>
 
