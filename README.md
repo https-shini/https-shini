@@ -3,8 +3,8 @@
 <h1 align="left">✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 😁<img src"https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/c6ee92e407d7ae958d3bdae64df345839513c1ab/githubcard.svg" width="30px">
   
 ## ★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
-  • Junior Mobile and Web Developer <br>
-  • Programming student <br>
+  ● Junior Mobile and Web Developer <br>
+  ● Programming student <br>
   
 ## ★ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔
   <div align="center">
