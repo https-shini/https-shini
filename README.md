@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/c6ee92e407d7ae958d3bdae64df345839513c1ab/githubcard.svg"/>
 
-<h1 align="left">✰𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 😁<img src"https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/c6ee92e407d7ae958d3bdae64df345839513c1ab/githubcard.svg" width="30px">
+<h1 align="left">✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 😁<img src"https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/c6ee92e407d7ae958d3bdae64df345839513c1ab/githubcard.svg" width="30px">
   
 ## ★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
   • Junior Mobile and Web Developer <br>
@@ -39,4 +39,5 @@
 </p>
 
 ##
+
 ![Snake animation](https://github.com/https-shini/https-shini/blob/output/github-contribution-grid-snake.svg)
