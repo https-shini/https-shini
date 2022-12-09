@@ -33,7 +33,7 @@
   <a href="https://www.instagram.com/https.shinis/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
-  <a href = "mailto:contato.guilhermescruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:contato.guilhermescruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img src="https://komarev.com/ghpvc/?username=https-shini&color=red" alt="Profile views" />
   </a>
 </p>
