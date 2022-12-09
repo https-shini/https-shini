@@ -1,6 +1,7 @@
-## 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞
+<img aling="right" height="590em" src="https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/e16fa2ac7bd6cf182756b263b5649cda79c16ea9/githubcard.svg"/>
 
-<img aling="right" height="590em" scr="https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/e16fa2ac7bd6cf182756b263b5649cda79c16ea9/githubcard.svg"/>
+<h1 aling="left">Hi, w𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 😁<img src"https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/e16fa2ac7bd6cf182756b263b5649cda79c16ea9/githubcard.svg" width="30px">
+
 
 <div align="center">
   <a href="https://github.com/https-shini">
