@@ -4,7 +4,7 @@
   
 ## ★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
   • Junior Mobile and Web Developer <br>
-  • Programming studentr <br>
+  • Programming student <br>
   
 ## ★ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔
   <div align="center">
