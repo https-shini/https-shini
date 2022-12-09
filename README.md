@@ -1,4 +1,7 @@
 ## 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞
+
+<img aling="right" height="590em" scr="https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/e16fa2ac7bd6cf182756b263b5649cda79c16ea9/githubcard.svg"/>
+
 <div align="center">
   <a href="https://github.com/https-shini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=https-shini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
