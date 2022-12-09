@@ -15,5 +15,17 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-shini&layout=compact&langs_count=7&theme=dark"/>
   </div>
 
-## ★ Tech Stack
+## ★ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
   
+## ★ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
+
+<p align="left">
+<a href="https://www.linkedin.com/in/oguilherme-cruz/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Guilherme Souza-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/https.shinis/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Guilherme Souza-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=https-shini&color=red" alt="Profile views" /> 
+</p>
+    
