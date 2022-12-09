@@ -19,10 +19,10 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=red)&nbsp;
+![Git](https://img.shields.io/badge/Git-B72400?style=for-the-badge&logo=git&logoColor=FFFFFF)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-100000?style=for-the-badge&logo=VisualStudioCode&logoColor=blue)&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-100000?style=for-the-badge&logo=Firebase&logoColor=yellow)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-323330?style=for-the-badge&logo=VisualStudioCode&logoColor=blue)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-FFFFFF?style=for-the-badge&logo=Firebase&logoColor=yellow)&nbsp;
 
 ## ★ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 
