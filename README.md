@@ -32,9 +32,6 @@
   <a href="https://www.linkedin.com/in/oguilherme-cruz/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://www.instagram.com/https.shinis/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-  </a>
   <a href="mailto:contato.guilhermescruz@gmail.com"  target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </a>
