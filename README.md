@@ -41,3 +41,5 @@
 </p>
 
 ##
+![Snake animation](https://github.com/https-shini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+##
