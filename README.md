@@ -55,7 +55,7 @@
 
 <div align="center">
  
-![Snake animation](https://github.com/https-shini/https-shini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/https-shini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
