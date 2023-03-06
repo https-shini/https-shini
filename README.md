@@ -35,17 +35,6 @@
 <!-- ![Python](https://img.shields.io/badge/Python-bcbcbc?style=for-the-badge&logo=python)&nbsp; -->
 
 </div>
-  
-## ★ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/oguilherme-cruz/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="mailto:contato.guilhermescruz@gmail.com"  target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </a>
-</p>
 
 ## ★ 𝑮𝒊𝒕𝒉𝒖𝒃 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
 
