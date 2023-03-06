@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Souza;I'm+18+years+old;I'm+from+Brazil;I+am+systems+development+technologist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<br><br>
+
 <img align="right" height="627em" src="https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/00c960621f67ae418dbaac103300defbdaf95548/githubcard.svg"/>
 
 <h1 align="center">✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 <img src"https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/c6ee92e407d7ae958d3bdae64df345839513c1ab/githubcard.svg" width="10px">
@@ -16,7 +19,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=https-shini&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
     <img height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-shini&layout=compact&langs_count=7&theme=discord_old_blurple"/>
   </div>
-
+    
 ## ★ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
 <div align="center">
