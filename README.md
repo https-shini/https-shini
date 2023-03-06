@@ -36,6 +36,17 @@
 
 </div>
 
+## ★ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/oguilherme-cruz/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:contato.guilhermescruz@gmail.com"  target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </a>
+</p>
+    
 ## ★ 𝑮𝒊𝒕𝒉𝒖𝒃 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=https-shini&bg_color=0d1117&color=f3f6f4&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
