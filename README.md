@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 ##
 
 <img align="right" height="627em" src="https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/00c960621f67ae418dbaac103300defbdaf95548/githubcard.svg"/>
@@ -55,9 +56,8 @@
 ##
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{https-shini}/count.svg" /></p> 
-<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
 </div>
 
-##
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
