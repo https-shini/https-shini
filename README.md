@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Souza;I'm+18+years+old;I'm+from+Brazil;I+am+systems+development+technologist;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br><br>
 
-<img align="right" height="680em" src="https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/00c960621f67ae418dbaac103300defbdaf95548/githubcard.svg"/>
+<img align="right" height="670em" src="https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/00c960621f67ae418dbaac103300defbdaf95548/githubcard.svg"/>
 
 <h1 align="center">✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 <img src"https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/c6ee92e407d7ae958d3bdae64df345839513c1ab/githubcard.svg" width="10px">
   <h3 align="center">∆ ᴛʜᴇ ᴜɴɪᴠᴇʀsᴇ ᴛᴇɴᴅs ᴛᴏ ᴄʜᴀᴏs | ☆</h3>
