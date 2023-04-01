@@ -28,22 +28,26 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-bcbcbc?style=for-the-badge&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/Git-B72400?style=for-the-badge&logo=git&logoColor=FFFFFF)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-323330?style=for-the-badge&logo=VisualStudioCode&logoColor=blue)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-FFFFFF?style=for-the-badge&logo=Firebase&logoColor=yellow)&nbsp;
-<!-- ![Python](https://img.shields.io/badge/Python-bcbcbc?style=for-the-badge&logo=python)&nbsp; -->
 
 </div>
 
 ## ★ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
-
+          
 <p align="left">
+
   <a href="https://www.linkedin.com/in/oguilherme-cruz/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="mailto:contato.guilhermescruz@gmail.com"  target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </a>
+  <a href="https://https-shini.github.io/portfolio/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/portfolio-323330?style=for-the-badge&logo=git&logoColor=white" alt="portfolio"/>
   </a>
 </p>
     
