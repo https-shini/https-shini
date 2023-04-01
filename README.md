@@ -38,13 +38,15 @@
 ## ★ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
           
 <p align="left">
-
-  <a href="https://https-shini.github.io/portfolio/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/portfolio-323330?style=for-the-badge&logo=git&logoColor=white" alt="portfolio"/>
-  </a>
+  
   <a href="mailto:contato.guilhermescruz@gmail.com"  target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </a>
+  <!-- 
+  <a href="https://https-shini.github.io/portfolio/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/portfolio-323330?style=for-the-badge&logo=git&logoColor=white" alt="portfolio"/>
+  </a>
+  -->
 </p>
     
 ## ★ 𝑮𝒊𝒕𝒉𝒖𝒃 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
