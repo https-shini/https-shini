@@ -29,7 +29,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-bcbcbc?style=for-the-badge&logo=python)&nbsp;
-![Git](https://img.shields.io/badge/Git-B72400?style=for-the-badge&logo=git&logoColor=FFFFFF)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-323330?style=for-the-badge&logo=VisualStudioCode&logoColor=blue)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-FFFFFF?style=for-the-badge&logo=Firebase&logoColor=yellow)&nbsp;
