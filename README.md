@@ -39,14 +39,11 @@
           
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/oguilherme-cruz/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <a href="https://https-shini.github.io/portfolio/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/portfolio-323330?style=for-the-badge&logo=git&logoColor=white" alt="portfolio"/>
   </a>
   <a href="mailto:contato.guilhermescruz@gmail.com"  target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </a>
-  <a href="https://https-shini.github.io/portfolio/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/portfolio-323330?style=for-the-badge&logo=git&logoColor=white" alt="portfolio"/>
   </a>
 </p>
     
