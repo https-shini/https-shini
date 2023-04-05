@@ -13,12 +13,15 @@
   ● Programming student<br>
   ● Front-End programer<br>
   
+  <!--
 ## ★ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔
+  
   <div align="center">
     <a href="https://github.com/https-shini">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=https-shini&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-shini&layout=compact&langs_count=7&theme=discord_old_blurple&bg_color=0d1117&hide_border=true"/>
   </div>
+    -->
     
 ## ★ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
@@ -46,6 +49,10 @@
     <img align="center" src="https://img.shields.io/badge/portfolio-323330?style=for-the-badge&logo=git&logoColor=white" alt="portfolio"/>
   </a>
 </p>
+    <br>
+    <br>
+    <br>
+    <br>
     
 ## ★ 𝑮𝒊𝒕𝒉𝒖𝒃 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
 
