@@ -47,10 +47,6 @@
     <img align="center" src="https://img.shields.io/badge/portfolio-323330?style=for-the-badge&logo=git&logoColor=white" alt="portfolio"/>
   </a>
 </p>
-    <br>
-    <br>
-    <br>
-    <br>
     
 ## ★ 𝑮𝒊𝒕𝒉𝒖𝒃 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
 
