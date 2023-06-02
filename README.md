@@ -50,10 +50,6 @@
     
 ## ★ 𝑮𝒊𝒕𝒉𝒖𝒃 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=https-shini&bg_color=0d1117&color=f3f6f4&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-##
-
 <div align="center">
  
 ![Snake animation](https://github.com/https-shini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
