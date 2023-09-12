@@ -47,12 +47,6 @@
     <img align="center" src="https://img.shields.io/badge/portfolio-323330?style=for-the-badge&logo=git&logoColor=white" alt="portfolio"/>
   </a>
 </p>
-    
-## ★ 𝑮𝒊𝒕𝒉𝒖𝒃 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
-
-<div align="center">
- 
-![Snake animation](https://github.com/https-shini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
