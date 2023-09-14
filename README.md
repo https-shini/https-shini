@@ -5,7 +5,7 @@
 
 <img align="right" height="660em" src="https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/00c960621f67ae418dbaac103300defbdaf95548/githubcard.svg"/>
 
-<h1 align="center">✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 <img src"https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/c6ee92e407d7ae958d3bdae64df345839513c1ab/githubcard.svg" width="10px">
+<h1 align="center">✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 </h1>
   <h3 align="center">∆ ᴛʜᴇ ᴜɴɪᴠᴇʀsᴇ ᴛᴇɴᴅs ᴛᴏ ᴄʜᴀᴏs | ☆</h3>
   
 ## ★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
