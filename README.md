@@ -8,7 +8,7 @@
 <div align="center">
   <h1>✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 </h1>
   <a href="https://https-shini.github.io/portfolio/#home" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/portfolio-323330?style=for-the-badge&logo=git&logoColor=white" alt="portfolio"/>
+    <img height="45em" align="center" src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=git&logoColor=white" alt="portfolio"/>
   </a>
 </div>
 
