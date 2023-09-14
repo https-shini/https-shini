@@ -17,7 +17,7 @@
   ● Programming student<br>
   ● Front-End programer<br>
 
-## ★ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔
+## ★ 𝑺𝒑𝒐𝒕𝒊𝒇𝒚 𝒎𝒖𝒔𝒊𝒄𝒔
 
   <div align="center">
     <img align="top" width="" height="330em" src="https://spotify-github-profile.vercel.app/api/view?uid=l6duvb5lumaygkxp75uselar9&cover_image=true&theme=default&show_offline=false&background_color=0b0f13&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"/>
