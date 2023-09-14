@@ -5,9 +5,13 @@
 
 <img align="right" height="660em" src="https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/00c960621f67ae418dbaac103300defbdaf95548/githubcard.svg"/>
 
-<h1 align="center">✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 </h1>
-  <h3 align="center">∆ ᴛʜᴇ ᴜɴɪᴠᴇʀsᴇ ᴛᴇɴᴅs ᴛᴏ ᴄʜᴀᴏs | ☆</h3>
-  
+<div align="center">
+  <h1>✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 </h1>
+  <a href="https://https-shini.github.io/portfolio/#home" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/portfolio-323330?style=for-the-badge&logo=git&logoColor=white" alt="portfolio"/>
+  </a>
+</div>
+
 ## ★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
   ● Junior Mobile and Web Developer<br>
   ● Programming student<br>
@@ -36,17 +40,11 @@
 
 </div>
 
-## ★ 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
-          
-<p align="left">
+##
+
+<div aling="center">
   
-  <a href="mailto:contato.guilhermescruz@gmail.com"  target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </a>
-  <a href="https://https-shini.github.io/portfolio/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/portfolio-323330?style=for-the-badge&logo=git&logoColor=white" alt="portfolio"/>
-  </a>
-</p>
+  ![Snake animation](https://github.com/https-shini/LuigiGF/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
