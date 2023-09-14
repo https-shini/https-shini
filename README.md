@@ -16,7 +16,14 @@
   ● Junior Mobile and Web Developer<br>
   ● Programming student<br>
   ● Front-End programer<br>
-  
+
+## ★ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔
+
+  <div align="center">
+    <img align="top" width="" height="330em" src="https://spotify-github-profile.vercel.app/api/view?uid=l6duvb5lumaygkxp75uselar9&cover_image=true&theme=default&show_offline=false&background_color=0b0f13&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"/>
+  </div>
+
+<!--  
 ## ★ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔
   
   <div align="center">
@@ -24,6 +31,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=https-shini&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-shini&layout=compact&langs_count=7&bg_color=0d1117&hide_border=true"/>
   </div>
+-->
     
 ## ★ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
