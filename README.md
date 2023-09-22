@@ -6,7 +6,7 @@
 <img align="right" height="705em" src="https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/00c960621f67ae418dbaac103300defbdaf95548/githubcard.svg"/>
 
 <div align="center">
-  <h1>✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 </h1>
+  <h1 color="#FFFFFF">✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 </h1>
   <a href="https://https-shini.github.io/portfolio/#home" target="_blank">
     <img height="35em" align="center" src="https://img.shields.io/badge/portfolio-0b0f13?style=for-the-badge&logo=supabase&logoColor=white" alt="portfolio"/>
   </a>
