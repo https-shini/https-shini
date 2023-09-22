@@ -6,14 +6,13 @@
 <img align="right" height="705em" src="https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/00c960621f67ae418dbaac103300defbdaf95548/githubcard.svg"/>
 
 <div align="center">
-  <h1 color="#FFFFFF">✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 </h1>
+  <h1>✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 </h1>
   <a href="https://https-shini.github.io/portfolio/#home" target="_blank">
     <img height="35em" align="center" src="https://img.shields.io/badge/portfolio-0b0f13?style=for-the-badge&logo=supabase&logoColor=white" alt="portfolio"/>
   </a>
 </div>
 
 ★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
-##
   ● Junior Mobile and Web Developer<br>
   ● Programming student<br>
   ● Front-End programer<br>
@@ -26,8 +25,7 @@
   </div>
   -->
 
-★ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔
-##
+## ★ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔
   
   <div align="center">
     <a href="https://github.com/https-shini">
@@ -35,8 +33,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-shini&layout=compact&langs_count=7&bg_color=0d1117&hide_border=true"/>
   </div>
 
-★ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
-##
+## ★ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
 <div align="center">
   
