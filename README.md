@@ -12,6 +12,7 @@
   </a>
 </div>
 <br>
+
 ★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
   ● Junior Mobile and Web Developer<br>
   ● Programming student<br>
