@@ -13,7 +13,7 @@
 </div>
 <br>
 
-<p size="14pt">★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆</p><br>
+★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆<br>
   ● Junior Mobile and Web Developer<br>
   ● Programming student<br>
   ● Front-End programer<br>
