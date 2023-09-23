@@ -11,8 +11,9 @@
     <img height="35em" align="center" src="https://img.shields.io/badge/portfolio-0D1117?style=for-the-badge&logo=supabase&logoColor=white" alt="portfolio"/>
   </a>
 </div>
+<br>
 
-★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
+★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆<br>
   ● Junior Mobile and Web Developer<br>
   ● Programming student<br>
   ● Front-End programer<br>
