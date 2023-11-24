@@ -5,7 +5,11 @@
 
 <img align="right" height="670em" src="https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/00c960621f67ae418dbaac103300defbdaf95548/githubcard.svg"/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l6duvb5lumaygkxp75uselar9&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=l6duvb5lumaygkxp75uselar9&redirect=true)
+<div align="right">
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l6duvb5lumaygkxp75uselar9&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=l6duvb5lumaygkxp75uselar9&redirect=true)
+
+</div>
 
 <div align="center">
   <h1>✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 </h1>
