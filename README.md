@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Souza;I'm+18+years+old;I'm+from+Brazil;Programming+student;I+am+systems+development+technologist;studying+computer+science+college;Junior+Mobile+and+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l6duvb5lumaygkxp75uselar9&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=l6duvb5lumaygkxp75uselar9&redirect=true)
 <br><br>
 
 <img align="right" height="670em" src="https://raw.githubusercontent.com/gist/https-shini/7ac2170ef44ce060eccd8e49658969b4/raw/00c960621f67ae418dbaac103300defbdaf95548/githubcard.svg"/>
