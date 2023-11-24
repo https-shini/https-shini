@@ -11,20 +11,19 @@
     <img height="35em" align="center" src="https://img.shields.io/badge/portfolio-0D1117?style=for-the-badge&logo=supabase&logoColor=white" alt="portfolio"/>
   </a>
 </div>
-<br>
 
 ## ★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
   ● Junior Mobile and Web Developer<br>
   ● Programming student<br>
   ● Front-End programer<br>
 
-<!--  
+
 ## ★ 𝑺𝒑𝒐𝒕𝒊𝒇𝒚 𝒎𝒖𝒔𝒊𝒄𝒔
   <br>
   <div align="center">
     <img align="top" width="" height="330em" src="https://spotify-github-profile.vercel.app/api/view?uid=l6duvb5lumaygkxp75uselar9&cover_image=true&theme=default&show_offline=false&background_color=0b0f13&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"/>
   </div>
-  -->
+
 
 ## ★ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔
   
