@@ -40,14 +40,9 @@
 
 <div align="center">
   
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Static Badge](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript&color=1E1E22)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-bcbcbc?style=for-the-badge&logo=python)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-323330?style=for-the-badge&logo=VisualStudioCode&logoColor=blue)&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-FFFFFF?style=for-the-badge&logo=Firebase&logoColor=yellow)&nbsp;
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,vite,sass,php,py,java,mysql,git)](https://skillicons.dev)
+
+  [![My Idea's](https://skillicons.dev/icons?i=vscode,idea,docker,firebase,gamemakerstudio,ps,ai,figma,windows)](https://skillicons.dev)
 
 </div>
 
