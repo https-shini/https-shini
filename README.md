@@ -45,11 +45,32 @@
   [![My Idea's](https://skillicons.dev/icons?i=vscode,idea,docker,firebase,gamemakerstudio,ai,ps,figma,windows)](https://skillicons.dev)
 </div>
 
-<div aling="center">
+<div align="center">
   
-  ![Snake animation](https://github.com/https-shini/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l6duvb5lumaygkxp75uselar9&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=l6duvb5lumaygkxp75uselar9&redirect=true)
   
 </div>
+
+<div aling="center">
+  
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+  
+</div>
+
+<br>
 
 <div align="center">
 <p align="centre"><b>✯ 𝑽𝑰𝑺𝑰𝑻𝑶𝑹𝑺 𝑪𝑶𝑼𝑵𝑻 ✯</b></p>  
