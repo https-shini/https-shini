@@ -64,6 +64,8 @@
   
 </div>
 
+<br>
+
 <div align="center">
 <p align="centre"><b>✯ 𝑽𝑰𝑺𝑰𝑻𝑶𝑹𝑺 𝑪𝑶𝑼𝑵𝑻 ✯</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
