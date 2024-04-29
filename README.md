@@ -21,8 +21,8 @@
   
   <div align="center">
     <a href="https://github.com/https-shini">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=https-shini&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
-    <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-shini&layout=compact&langs_count=7&bg_color=0d1117&hide_border=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=https-shini&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-shini&layout=compact&langs_count=7&bg_color=0d1117&hide_border=true"/>
   </div>
 
   <!--
