@@ -13,9 +13,10 @@
 </div>
 
 ## ★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
-  ● Mobile and Web Developer<br>
-  ● Programming student<br>
-  ● Fullstack programer<br>
+  ● Mobile and Web Developer <br>
+  ● Programming student <br>
+  ● Fullstack programer <br>
+  ● Freelancer <br>
 
 ## ★ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔
   
