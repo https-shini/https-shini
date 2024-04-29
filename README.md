@@ -13,9 +13,9 @@
 </div>
 
 ## ★ 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
-  ● Junior Mobile and Web Developer<br>
+  ● Mobile and Web Developer<br>
   ● Programming student<br>
-  ● Front-End programer<br>
+  ● Fullstack programer<br>
 
 ## ★ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔
   
