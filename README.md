@@ -45,12 +45,6 @@
   [![My Idea's](https://skillicons.dev/icons?i=vscode,idea,docker,firebase,gamemakerstudio,ai,ps,figma,windows)](https://skillicons.dev)
 </div>
 
-<div align="center">
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l6duvb5lumaygkxp75uselar9&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=l6duvb5lumaygkxp75uselar9&redirect=true)
-  
-</div>
-
 <div aling="center">
   
 <picture>
