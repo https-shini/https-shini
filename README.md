@@ -7,7 +7,7 @@
 
 <div align="center">
   <h1>✰ 𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 </h1>
-  <a href="https://https-shini.github.io/portfolio/#home" target="_blank">
+  <a href="https://vite-portfolio-beta.vercel.app" target="_blank">
     <img height="35em" align="center" src="https://img.shields.io/badge/portfolio-0D1117?style=for-the-badge&logo=supabase&logoColor=white" alt="portfolio"/>
   </a>
 </div>
