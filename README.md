@@ -40,10 +40,23 @@
 ## ★ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
 <div align="center">
-  
+
+  <a>
+      <img
+          src="https://skillicons.dev/icons?i=html,css,js,nodejs,vite,sass,react,php,py,java,mysql,git"
+      />
+      <br />
+      <img
+          src="https://skillicons.dev/icons?i=vscode,idea,docker,firebase,gamemakerstudio,ai,ps,figma,linux,windows"
+      />
+  </a>
+
+
+  <!--
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,vite,sass,react,php,py,java,mysql,git)](#)
 
-  [![My Idea's](https://skillicons.dev/icons?i=vscode,idea,docker,firebase,gamemakerstudio,ai,ps,figma,linux,windows)](#)
+  [![My Idea's](https://skillicons.dev/icons?i=vscode,idea,docker,firebase,gamemakerstudio,ai,ps,figma,linux,windows)](#)-->
+  
 </div>
 
 <div aling="center">
