@@ -41,9 +41,9 @@
 
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,vite,sass,react,php,py,java,mysql,git)](#)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,vite,sass,react,php,py,java,mysql,git)](https://skillicons.dev)
 
-  [![My Idea's](https://skillicons.dev/icons?i=vscode,idea,docker,firebase,gamemakerstudio,ai,ps,figma,linux,windows)](#)
+  [![My Idea's](https://skillicons.dev/icons?i=vscode,idea,docker,firebase,gamemakerstudio,ai,ps,figma,linux,windows)](https://skillicons.dev)
   
 </div>
 
