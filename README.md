@@ -120,44 +120,14 @@ class GuilhermeCruz:
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 **E-commerce Cart**
-**Sistema de carrinho de compras**
-
-Plataforma que permite adicionar produtos do Mercado Livre ao carrinho e simular o processo de compra completo.
-
-**Stack:** React • JavaScript • API  
-**Destaque:** Integração em tempo real
-
-[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
-[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
-
-
-</td>
-<td width="50%" valign="top">
-
 ### 💬 **Chat em Tempo Real**
 **Aplicação de mensagens instantâneas**
 
-Sistema de chat web onde usuários podem conversar em tempo real, similar ao WhatsApp no navegador.
+Sistema de chat web onde usuários podem conversar em tempo real entre usuários através da internet., similar ao WhatsApp no navegador.
 
-**Stack:** Node.js • HTML • CSS  
-**Destaque:** Comunicação instantânea
-
-[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
-[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💰 **Controle Financeiro**
-**Dashboard para gestão de finanças**
-
-Interface intuitiva para controlar receitas e gastos pessoais com visualização clara dos dados financeiros.
-
-**Stack:** React • CSS • JavaScript  
-**Destaque:** Interface moderna e responsiva
+**Frontend:** HTML5 • CSS3 • JavaScript <br>
+**Backend:** Node.js • WebSocket • dotenv <br>
+**Destaque:** Comunicação instantânea <br>
 
 [![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
 [![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
@@ -170,11 +140,46 @@ Interface intuitiva para controlar receitas e gastos pessoais com visualização
 
 Software desktop completo para cadastro de atletas, gerenciamento de competições e análise estatística.
 
-**Stack:** Java • Swing • MySQL  
-**Destaque:** Análise de dados integrada
+**Linguagem de Programação:** Java <br>
+**Framework Gráfico:** Java Swing <br>
+**Estrutura de Dados:** ArrayList, Pilha, Fila <br>
+**Destaque:** Análise de dados integrada <br>
 
 [![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
 [![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 **Controle Financeiro**
+**Dashboard para gestão de finanças**
+
+Interface intuitiva para controlar receitas e gastos pessoais com visualização clara dos dados financeiros utilizando um sistema de controle de finanças desenvolvido utilizando React JS. 
+
+**Stack:** HTML • CSS • JavaScript • ReactJS  
+**Destaque:** Interface moderna e responsiva
+
+<br>
+
+[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
+[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍿 **Filmes Explorer**
+**Sistema para explorar e descobrir filmes**
+
+Plataforma que permite explorar e descobrir filmes, utilizando ReactJS e consumindo a API do TMDB. O aplicativo permite que os usuários busquem por filmes, visualizem detalhes específicos e naveguem entre diferentes páginas.
+
+**Stack:** HTML • CSS • JavaScript • ReactJS • Vite • TMDB API
+**Destaque:** Integração em tempo real
+
+[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
+[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
+
 
 </td>
 </tr>
@@ -186,7 +191,7 @@ Software desktop completo para cadastro de atletas, gerenciamento de competiçõ
 
 Jogo da memória com design moderno e mecânicas envolventes para treinar a concentração.
 
-**Stack:** JavaScript • HTML5 • CSS  
+**Stack:** HTML • CSS • JavaScript
 **Destaque:** Experiência de usuário otimizada
 
 [![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
@@ -195,12 +200,12 @@ Jogo da memória com design moderno e mecânicas envolventes para treinar a conc
 </td>
 <td width="50%" valign="top">
 
-### 🏓 **Pong Clone**
+### 👾 **Space Invaders**
 **Clássico arcade modernizado**
 
-Recriação do famoso jogo Pong com gráficos atualizados e jogabilidade suave.
+Recriação do famoso jogo Space Invaders com gráficos atualizados e jogabilidade suave.
 
-**Stack:** JavaScript • HTML5 Canvas  
+**Stack:** HTML • CSS • JavaScript  
 **Destaque:** Física de jogo implementada
 
 [![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
