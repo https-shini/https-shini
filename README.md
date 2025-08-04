@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=900&lines=✨+Hey+there!+I'm+Guilherme+Cruz;🚀+Building+digital+dreams;💡+Programming+student;👾+Mobile+and+Web+Developer;🌟+Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
-<br>
-
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-311DB4?style=for-the-badge)](https://bl4ck404.dev.br)
@@ -13,8 +11,6 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:contact@bl4ck404.dev.br)
 
 </div>
-
-<br>
 
 ## 🎯 **About Me**
 
