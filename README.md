@@ -254,17 +254,19 @@ Recriação do famoso jogo Space Invaders com gráficos atualizados e jogabilida
 
 ---
 
-## 🎯 **Dreams & Goals for 2025**
+## 🎯 **Goals for 2025 and 2026**
 
 <div align="center">
 
-| 🚀 **Meta** | 📝 **Status** | 💭 **Why it matters** |
+| 🚀 **Objetivo** | 📝 **Status** | 💭 **Por que é importante** |
 |------------|---------------|----------------------|
-| Crescer na WISE SYSTEM | 🔄 Em progresso | Aplicar conhecimento técnico em ambiente corporativo |
-| Dominar qualidade de software | 🔄 Estudando | Entregar soluções mais robustas e confiáveis |
-| Expandir expertise em suporte | 🔄 Desenvolvendo | Melhorar experiência do cliente e processos |
-| Finalizar graduação com excelência | 📅 Planejado | Base sólida para carreira em tecnologia |
-| Contribuir para projetos open source | 💡 Idealizando | Retribuir conhecimento para a comunidade |
+| Garantia de Qualidade de Software | 🔄 Em estudo | Construir soluções mais robustas e confiáveis. |
+| Desenvolvimento Web e Mobile | 🔄 Em estudo | Entregar código mais limpo, otimizado e eficiente. |
+| Banco de Dados | 🔄 Em estudo | Melhorar o gerenciamento e otimizar a informação de forma eficiente. |
+| Crescer profissionalmente | 🔄 Em andamento | Aplicar teoria na prática e se desenvolver profissionalmente. |
+| Fluência em Inglês | 🔄 Em andamento | Ampliar oportunidades e acessar conhecimento global. |
+| Concluir a Graduação | 📅 Planejado | Construir uma base sólida para uma carreira de sucesso. |
+| Contribuir para Open Source | 💡 Idealizando | Compartilhar conhecimento e colaborar com a comunidade. |
 
 </div>
 
