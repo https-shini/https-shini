@@ -129,8 +129,8 @@ Sistema de chat web onde usuários podem conversar em tempo real entre usuários
 **Backend:** Node.js • WebSocket • dotenv <br>
 **Destaque:** Comunicação instantânea <br>
 
-[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
-[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
+[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini/web-chat)
+[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://chat-frontend-g42t.onrender.com)
 
 </td>
 <td width="50%" valign="top">
@@ -145,8 +145,8 @@ Software desktop completo para cadastro de atletas, gerenciamento de competiçõ
 **Estrutura de Dados:** ArrayList, Pilha, Fila <br>
 **Destaque:** Análise de dados integrada <br>
 
-[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
-[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
+[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini/Atletismo-Java)
+[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini/Atletismo-Java/archive/refs/heads/main.zip)
 
 </td>
 </tr>
@@ -163,8 +163,8 @@ Interface intuitiva para controlar receitas e gastos pessoais com visualização
 
 <br>
 
-[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
-[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
+[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini/financas-reactjs)
+[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://financas-reactjs.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -177,8 +177,8 @@ Plataforma que permite explorar e descobrir filmes, utilizando ReactJS e consumi
 **Stack:** HTML • CSS • JavaScript • ReactJS • Vite • TMDB API
 **Destaque:** Integração em tempo real
 
-[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
-[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
+[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini/movies_lib)
+[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://movieslib-krd.vercel.app)
 
 
 </td>
@@ -194,8 +194,8 @@ Jogo da memória com design moderno e mecânicas envolventes para treinar a conc
 **Stack:** HTML • CSS • JavaScript
 **Destaque:** Experiência de usuário otimizada
 
-[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
-[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
+[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini/memory-game)
+[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://https-shini.github.io/memory-game)
 
 </td>
 <td width="50%" valign="top">
@@ -208,8 +208,8 @@ Recriação do famoso jogo Space Invaders com gráficos atualizados e jogabilida
 **Stack:** HTML • CSS • JavaScript  
 **Destaque:** Física de jogo implementada
 
-[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
-[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini)
+[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini/space-invaders)
+[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://https-shini.github.io/space-invaders)
 
 </td>
 </tr>
