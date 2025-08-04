@@ -42,8 +42,6 @@ class GuilhermeCruz:
         return "Aplicando conhecimento em desafios reais da indústria de tecnologia! 🚀"
 ```
 
-<br clear="both"/>
-
 ---
 
 ## ⚡ **My Digital Arsenal**
