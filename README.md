@@ -104,12 +104,16 @@ class GuilhermeCruz:
 ## 📊 **GitHub Stats & Vibes**
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=https-shini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-shini&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=https-shini&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-shini&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https-shini&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Streak" />
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https-shini&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=https-shini&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
