@@ -19,7 +19,7 @@ class GuilhermeCruz:
     def __init__(self):
         self.nome = "Guilherme Cruz"
         self.localizacao = "São Paulo, SP - Brasil"
-        self.semester = "6º Semestre"
+        self.semester = "7º Semestre"
         self.university = "Universidade Cruzeiro do Sul"
         self.role = "Desenvolvedor de Software | Estudante de Ciência da Computação"
         self.languages = ["Português (Nativo)", "Inglês (Intermediário)"]
