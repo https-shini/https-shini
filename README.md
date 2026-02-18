@@ -240,7 +240,7 @@ Recriação do famoso jogo Space Invaders com gráficos atualizados e jogabilida
 
 | 💼 **Cargo** | 🏢 **Empresa** | 📅 **Período** | 📋 **Modalidade** |
 |--------------|----------------|-----------------|-------------------|
-| **Atendente de Suporte Técnico (Helpdesk)** | Wise System | Abril 2025 - Atual | 🟡 **Estágio** |
+| **Analista de Suporte Técnico (Helpdesk)** | Wise System | Abril 2025 - Atual | 🟡 **CLT Efetivado** |
 
 </div>
 
