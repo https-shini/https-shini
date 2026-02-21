@@ -1,50 +1,26 @@
-name: 🔧 Manual Regeneration
+name: Manual Regeneration
 
-# Apenas manual — use quando quiser forçar uma regeneração imediata
-# (ex: após resetar o branch output, em testes ou emergências)
 on:
   workflow_dispatch:
-    inputs:
-      reason:
-        description: "Motivo da regeneração manual (opcional)"
-        required: false
-        default: "Regeneração sob demanda"
 
 jobs:
   manual-regenerate:
-    name: Regeneração manual completa
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     steps:
-      - name: 📥 Checkout do repositório
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: 📝 Exibir motivo da execução
-        run: echo "🔧 Executando regeneração manual — Motivo: ${{ github.event.inputs.reason }}"
-
-      - name: 🐍 Gerar SVGs da cobrinha (claro e escuro)
-        uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: https-shini
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: 🔍 Verificar arquivos gerados
-        run: |
-          echo "📁 Arquivos gerados em dist/:"
-          ls -lh dist/
-
-      - name: 🚀 Publicar no branch output
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: ✅ Conclusão
-        run: echo "✅ Regeneração manual concluída com sucesso em $(date -u)"
