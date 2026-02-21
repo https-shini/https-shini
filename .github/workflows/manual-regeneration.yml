@@ -1,4 +1,4 @@
-name: Manual Regeneration
+name: 🔧 Manual Regeneration
 
 on:
   workflow_dispatch:
