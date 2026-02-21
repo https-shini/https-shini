@@ -1,4 +1,4 @@
-name: CodeQL Security Analysis
+name: 🔒 CodeQL Security Analysis
 
 on:
   push:
