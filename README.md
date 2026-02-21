@@ -112,10 +112,6 @@ class GuilhermeCruz:
   <img src="https://streak-stats.demolab.com/?user=https-shini&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=https-shini&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
 ---
 
 ## 🚀 **My Favorite Projects**
