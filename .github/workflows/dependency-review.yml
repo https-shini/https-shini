@@ -12,6 +12,7 @@ jobs:
     permissions:
       contents: read
       pull-requests: write
+      security-events: write
 
     steps:
       - name: 📥 Checkout do repositório
@@ -20,9 +21,19 @@ jobs:
       - name: 🔍 Revisar dependências do PR
         uses: actions/dependency-review-action@v4
         with:
+          # Bloqueia dependências com CVEs de nível moderate, high ou critical
           fail-on-severity: moderate
-          # Bloqueia PRs que adicionem dependências com CVEs de nível moderate, high ou critical
-          deny-licenses: GPL-2.0, AGPL-3.0
-          # Bloqueia licenças incompatíveis com projetos open source comuns
+
+          # Bloqueia licenças incompatíveis com projetos open source
+          deny-licenses: GPL-2.0, AGPL-3.0, GPL-3.0
+
+          # Posta resumo automático no PR
           comment-summary-in-pr: always
-          # Posta um resumo automático no PR explicando o que foi encontrado
+
+          # Verifica vulnerabilidades e licenças
+          vulnerability-check: true
+          license-check: true
+
+      - name: ✅ Resumo
+        if: always()
+        run: echo "🛡️ Revisão de dependências concluída em $(date -u)"
