@@ -104,16 +104,16 @@ class GuilhermeCruz:
 ## 📊 **GitHub Stats & Vibes**
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=https-shini&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-shini&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats-nine-blush-12.vercel.app/api?username=https-shini&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+  <img height="170em" src="https://github-readme-stats-nine-blush-12.vercel.app/api/top-langs/?username=https-shini&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https-shini&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=https-shini&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=https-shini&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=https-shini&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -230,7 +230,7 @@ Recriação do famoso jogo Space Invaders com gráficos atualizados e jogabilida
 | 🎓 **Curso** | 🏛️ **Instituição** | 📅 **Período** | 📋 **Status** |
 |--------------|---------------------|-----------------|---------------|
 | **Bacharelado em Ciência da Computação** | Universidade Cruzeiro do Sul | 2023 - 2026 | 🟢 **Em Andamento** |
-| **Técnico em Análise e Desenvolvimento de Sistemas** | ETEC Vila Formosa | 2020 - 2022 | ✅ **Concluído** |
+| **Técnico em Análise e Desenvolvimento de Sistemas** | ETEC Vila Formosa | 2020 - 2022 | 🟩 **Concluído** |
 
 </div>
 
@@ -240,11 +240,12 @@ Recriação do famoso jogo Space Invaders com gráficos atualizados e jogabilida
 
 | 💼 **Cargo** | 🏢 **Empresa** | 📅 **Período** | 📋 **Modalidade** |
 |--------------|----------------|-----------------|-------------------|
-| **Analista de Suporte Técnico (Helpdesk)** | Wise System | Abril 2025 - Atual | 🟡 **CLT Efetivado** |
+| **Analista de Suporte Técnico (Helpdesk)** | Wise System | Abril 2025 - Dezembro 2025 | 🟨 **Estagiário** |
+| **Analista de Suporte Técnico (Helpdesk)** | Wise System | Janeiro 2026 - Atualmente | 🟡 **CLT Efetivado** |
 
 </div>
 
-<!--
+
 ---
 
 ## 🌟 **Contribution Activity**
@@ -255,8 +256,19 @@ Recriação do famoso jogo Space Invaders com gráficos atualizados e jogabilida
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake.svg"/>
 
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/https-shini/https-shini/output/github-contribution-grid-snake.svg"/>
+   <!-- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/https-shini/https-shini/output/github-contribution-grid-snake.svg"/> -->
 
+</picture>
+</div>
+
+<!--
+## 🌟 **Contribution Activity**
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https-shini/https-shini/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https-shini/https-shini/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/https-shini/https-shini/output/github-contribution-grid-snake.svg"/>
 </picture>
 </div>
 -->
