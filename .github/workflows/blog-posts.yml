@@ -1,0 +1,42 @@
+name: 📝 Blog Posts Update
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # todo dia às 06h UTC
+  workflow_dispatch:
+
+jobs:
+  update-blog-posts:
+    name: Atualizar posts recentes no README
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: 📝 Buscar posts recentes
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Troque pela URL do seu feed RSS quando criar seu blog
+          # Dev.to:   https://dev.to/feed/SEU_USUARIO
+          # Medium:   https://medium.com/feed/@SEU_USUARIO
+          # Hashnode: https://SEU_USUARIO.hashnode.dev/rss.xml
+          feed_list: "https://dev.to/feed/https-shini"
+          max_post_count: 5
+          readme_path: ./README.md
+          comment_tag_name: "BLOG-POST-LIST"
+          # No README, adicione este marcador onde quer que os posts apareçam:
+          # <!-- BLOG-POST-LIST:START -->
+          # <!-- BLOG-POST-LIST:END -->
+          template: "- [$title]($url) — $date"
+          date_format: "dd/MM/yyyy"
+
+      - name: 💾 Commit das mudanças
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "📝 Atualizando posts recentes do blog"
+          add: "README.md"
+          default_author: github_actions

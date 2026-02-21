@@ -1,0 +1,50 @@
+name: ✅ Lint & Code Quality
+
+on:
+  push:
+    branches: ["main", "master"]
+    paths:
+      - "**.js"
+      - "**.jsx"
+      - "**.ts"
+      - "**.tsx"
+      - "**.css"
+      - "**.scss"
+  pull_request:
+    branches: ["main", "master"]
+  workflow_dispatch:
+
+jobs:
+  lint:
+    name: Verificar qualidade do código
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: 📦 Instalar dependências
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
+
+      - name: 🔍 Rodar ESLint
+        run: npx eslint . --ext .js,.jsx,.ts,.tsx --max-warnings=0
+        continue-on-error: false
+
+      - name: 🎨 Verificar formatação (Prettier)
+        run: npx prettier --check "**/*.{js,jsx,ts,tsx,css,scss,json}"
+        continue-on-error: true
+
+      - name: ✅ Resumo
+        if: always()
+        run: echo "✅ Lint concluído em $(date -u)"

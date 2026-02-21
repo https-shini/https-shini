@@ -1,0 +1,32 @@
+name: 🎵 Spotify Now Playing
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # atualiza a cada 30 minutos
+  workflow_dispatch:
+
+jobs:
+  update-spotify:
+    name: Atualizar música no README
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: 🎵 Atualizar Spotify no README
+        uses: novatorem/spotify-github-profile@master
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+
+      - name: 💾 Commit das mudanças
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "🎵 Atualizando música atual do Spotify"
+          add: "."
+          default_author: github_actions

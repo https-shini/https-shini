@@ -1,0 +1,28 @@
+name: 🛡️ Dependency Review
+
+on:
+  pull_request:
+    branches: ["main", "master"]
+
+jobs:
+  dependency-review:
+    name: Verificar dependências vulneráveis
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      pull-requests: write
+
+    steps:
+      - name: 📥 Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: 🔍 Revisar dependências do PR
+        uses: actions/dependency-review-action@v4
+        with:
+          fail-on-severity: moderate
+          # Bloqueia PRs que adicionem dependências com CVEs de nível moderate, high ou critical
+          deny-licenses: GPL-2.0, AGPL-3.0
+          # Bloqueia licenças incompatíveis com projetos open source comuns
+          comment-summary-in-pr: always
+          # Posta um resumo automático no PR explicando o que foi encontrado
