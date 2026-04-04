@@ -47,7 +47,7 @@ class GuilhermeCruz:
 <td align="center" width="50%">
 
 ### 🎨 **Frontend Universe**
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,vite&theme=dark)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vite&theme=dark)](https://skillicons.dev)
 
 <br>
 
@@ -83,7 +83,7 @@ class GuilhermeCruz:
 <td align="center" width="50%">
 
 ### 🎮 **Creative Suite**
-[![Creative Tools](https://skillicons.dev/icons?i=figma,unity,ps,ai&theme=dark)](https://skillicons.dev)
+[![Creative Tools](https://skillicons.dev/icons?i=figma,obsidian,notion,unity,ps,ai&theme=dark)](https://skillicons.dev)
 
 <br>
 
