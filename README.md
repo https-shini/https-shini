@@ -104,8 +104,8 @@ class GuilhermeCruz:
 ## 📊 **GitHub Stats & Vibes**
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-nine-blush-12.vercel.app/api?username=https-shini&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
-  <img height="170em" src="https://github-readme-stats-nine-blush-12.vercel.app/api/top-langs/?username=https-shini&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+  <img height="170em" src="https://gcruz-github-readme-stats.vercel.app/api?username=https-shini&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
+  <img height="170em" src="https://gcruz-github-readme-stats.vercel.app/api/top-langs/?username=https-shini&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
 </div>
 
 <div align="center" style="margin-top: 15px;">
