@@ -65,7 +65,7 @@ class GuilhermeCruz:
 <td align="center" width="50%">
 
 ### 🗄️ **Data Kingdom**
-[![Database Skills](https://skillicons.dev/icons?i=mysql,firebase&theme=dark)](https://skillicons.dev)
+[![Database Skills](https://skillicons.dev/icons?i=mysql,firebase,supabase&theme=dark)](https://skillicons.dev)
 
 <br>
 
