@@ -48,15 +48,11 @@ class GuilhermeCruz:
 ### 🎨 **Frontend Universe**
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vite&theme=dark)](https://skillicons.dev)
 
-<br>
-
 </td>
 <td align="center" width="50%">
 
-### ⚙️ **Backend Realm** 
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,php,java,python&theme=dark)](https://skillicons.dev)
-
-<br>
+### ⚙️ **Backend Realm**
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,fastapi,php,java,python&theme=dark)](https://skillicons.dev)
 
 </td>
 </tr>
@@ -64,17 +60,13 @@ class GuilhermeCruz:
 <td align="center" width="50%">
 
 ### 🗄️ **Data Kingdom**
-[![Database Skills](https://skillicons.dev/icons?i=mysql,firebase,supabase&theme=dark)](https://skillicons.dev)
-
-<br>
+[![Database Skills](https://skillicons.dev/icons?i=mysql,oracle,firebase&theme=dark)](https://skillicons.dev)
 
 </td>
 <td align="center" width="50%">
 
 ### 🛠️ **Developer Toolkit**
-[![Tools](https://skillicons.dev/icons?i=git,docker,vscode,idea&theme=dark)](https://skillicons.dev)
-
-<br>
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,vercel&theme=dark)](https://skillicons.dev)
 
 </td>
 </tr>
@@ -84,15 +76,11 @@ class GuilhermeCruz:
 ### 🎮 **Creative Suite**
 [![Creative Tools](https://skillicons.dev/icons?i=figma,obsidian,notion,unity,ps,ai&theme=dark)](https://skillicons.dev)
 
-<br>
-
 </td>
 <td align="center" width="50%">
 
 ### 🌍 **Operating Systems**
 [![OS](https://skillicons.dev/icons?i=linux,windows&theme=dark)](https://skillicons.dev)
-
-<br>
 
 </td>
 </tr>
