@@ -19,21 +19,20 @@ class GuilhermeCruz:
     def __init__(self):
         self.nome = "Guilherme Cruz"
         self.localizacao = "São Paulo, SP - Brasil"
-        self.semester = "7º Semestre"
+        self.semester = "8º Semestre"
         self.university = "Universidade Cruzeiro do Sul"
-        self.role = "Desenvolvedor de Software | Estudante de Ciência da Computação"
+        self.role = "Desenvolvedor Full Stack"
         self.languages = ["Português (Nativo)", "Inglês (Intermediário)"]
-        
+
     def current_focus(self):
         return [
-            "Suporte Técnico e Atendimento",
-            "Desenvolvimento de APIs RESTful",
-            "Desenvolvimento Web e Mobile",
-            "Qualidade de Software",
-            "Análise de Dados",
-            "Banco de Dados"
+            "Desenvolvimento Web com React + TypeScript",
+            "APIs RESTful e autenticação (Node.js, FastAPI, JWT)",
+            "Banco de Dados relacional (MySQL, Oracle)",
+            "Qualidade de Software e Clean Code",
+            "Transição de Suporte Técnico para Desenvolvimento"
         ]
-    
+
     def get_motto(self):
         return "Aplicando conhecimento em desafios reais da indústria de tecnologia! 🚀"
 ```
