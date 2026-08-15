@@ -46,13 +46,13 @@ class GuilhermeCruz:
 <td align="center" width="50%">
 
 ### 🎨 **Frontend Universe**
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vite&theme=dark)](https://skillicons.dev)
+[![Frontend Skills](https://skill-icons-gcruz.vercel.app/icons?i=html,css,js,typescript,react,vite&theme=dark)](https://skill-icons-gcruz.vercel.app)
 
 </td>
 <td align="center" width="50%">
 
 ### ⚙️ **Backend Realm**
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,fastapi,php,java,python&theme=dark)](https://skillicons.dev)
+[![Backend Skills](https://skill-icons-gcruz.vercel.app/icons?i=nodejs,fastapi,php,java,python&theme=dark)](https://skill-icons-gcruz.vercel.app)
 
 </td>
 </tr>
@@ -60,13 +60,13 @@ class GuilhermeCruz:
 <td align="center" width="50%">
 
 ### 🗄️ **Data Kingdom**
-[![Database Skills](https://skillicons.dev/icons?i=mysql,oracle,firebase&theme=dark)](https://skillicons.dev)
+[![Database Skills](https://skill-icons-gcruz.vercel.app/icons?i=mysql,oracle,firebase&theme=dark)](https://skill-icons-gcruz.vercel.app)
 
 </td>
 <td align="center" width="50%">
 
 ### 🛠️ **Developer Toolkit**
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,vercel&theme=dark)](https://skillicons.dev)
+[![Tools](https://skill-icons-gcruz.vercel.app/icons?i=git,github,docker,vscode,vercel&theme=dark)](https://skill-icons-gcruz.vercel.app)
 
 </td>
 </tr>
