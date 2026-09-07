@@ -100,7 +100,7 @@ class GuilhermeCruz:
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://github-profile-trophy-khaki-nine.vercel.app/?username=https-shini&theme=tokyonight&no-frame=true&column=-1&margin-w=8"/>
+  <img src="https://github-profile-trophy-khaki-nine.vercel.app/?username=https-shini&theme=radical&no-frame=true&column=-1&margin-w=8"/>
 </div>
 
 ---
