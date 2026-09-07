@@ -91,16 +91,14 @@ class GuilhermeCruz:
 ## 📊 **GitHub Stats & Vibes**
 
 <div align="center">
-  <img height="170em" src="https://gcruz-github-readme-stats.vercel.app/api?username=https-shini&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
-  <img height="170em" src="https://gcruz-github-readme-stats.vercel.app/api/top-langs/?username=https-shini&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
+  <img height="170em" alt="GitHub Stats" src="https://gcruz-github-readme-stats.vercel.app/api?username=https-shini&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400&rank_icon=percentile"/>
+  <img height="170em" alt="Top Languages" src="https://gcruz-github-readme-stats.vercel.app/api/top-langs/?username=https-shini&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400&card_width=380"/>
 </div>
-
 <div align="center" style="margin-top: 15px;">
   <img src="https://streak-stats.demolab.com/?user=https-shini&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
-
 <div align="center" style="margin-top: 15px;">
-  <img src="https://github-profile-trophy-khaki-nine.vercel.app/?username=https-shini&theme=radical&no-frame=true&column=-1&margin-w=8"/>
+  <img src="https://github-profile-trophy-khaki-nine.vercel.app/?username=https-shini&theme=radical&no-frame=true&column=-1&margin-w=8&margin-h=8&row=2"/>
 </div>
 
 ---
