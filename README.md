@@ -6,9 +6,9 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-311DB4?style=for-the-badge)](https://bl4ck404.dev.br)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-311DB4?style=for-the-badge)](https://gcruz.dev.br/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-3E79E0?style=for-the-badge)](https://www.linkedin.com/in/oguilherme-cruz)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:contact@bl4ck404.dev.br)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:contato@gcruz.dev.br)
 
 </div>
 
@@ -288,9 +288,9 @@ Recriação do famoso jogo Space Invaders com gráficos atualizados e jogabilida
 
 <br>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-311DB4?style=for-the-badge)](https://bl4ck404.dev.br)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-311DB4?style=for-the-badge)](https://gcruz.dev.br/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-3E79E0?style=for-the-badge)](https://www.linkedin.com/in/oguilherme-cruz)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:contact@bl4ck404.dev.br)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:contato@gcruz.dev.br)
 
 
 <br>
