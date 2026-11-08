@@ -46,13 +46,13 @@ class GuilhermeCruz:
 <td align="center" width="50%">
 
 ### 🎨 **Frontend Universe**
-[![Frontend Skills](https://skill-icons-gcruz.vercel.app/icons?i=html,css,js,typescript,react,vite&theme=dark)](https://skill-icons-gcruz.vercel.app)
+[![Frontend Skills](https://skill-icons-gcruz.vercel.app/icons?i=html,css,js,typescript,react,vite&theme=dark&animation=true)](https://skill-icons-gcruz.vercel.app)
 
 </td>
 <td align="center" width="50%">
 
 ### ⚙️ **Backend Realm**
-[![Backend Skills](https://skill-icons-gcruz.vercel.app/icons?i=nodejs,fastapi,php,java,python&theme=dark)](https://skill-icons-gcruz.vercel.app)
+[![Backend Skills](https://skill-icons-gcruz.vercel.app/icons?i=nodejs,fastapi,php,java,python&theme=dark&animation=true)](https://skill-icons-gcruz.vercel.app)
 
 </td>
 </tr>
@@ -60,13 +60,13 @@ class GuilhermeCruz:
 <td align="center" width="50%">
 
 ### 🗄️ **Data Kingdom**
-[![Database Skills](https://skill-icons-gcruz.vercel.app/icons?i=mysql,oracle,firebase&theme=dark)](https://skill-icons-gcruz.vercel.app)
+[![Database Skills](https://skill-icons-gcruz.vercel.app/icons?i=mysql,oracle,firebase&theme=dark&animation=true)](https://skill-icons-gcruz.vercel.app)
 
 </td>
 <td align="center" width="50%">
 
 ### 🛠️ **Developer Toolkit**
-[![Tools](https://skill-icons-gcruz.vercel.app/icons?i=git,github,docker,vscode,vercel&theme=dark)](https://skill-icons-gcruz.vercel.app)
+[![Tools](https://skill-icons-gcruz.vercel.app/icons?i=git,github,docker,vscode,vercel&theme=dark&animation=true)](https://skill-icons-gcruz.vercel.app)
 
 </td>
 </tr>
@@ -74,13 +74,13 @@ class GuilhermeCruz:
 <td align="center" width="50%">
 
 ### 🎮 **Creative Suite**
-[![Creative Tools](https://skillicons.dev/icons?i=figma,obsidian,notion,unity,ps,ai&theme=dark)](https://skillicons.dev)
+[![Creative Tools](https://skill-icons-gcruz.vercel.app/icons?i=figma,obsidian,notion,unity,ps,ai&theme=dark&animation=true)](https://skill-icons-gcruz.vercel.app)
 
 </td>
 <td align="center" width="50%">
 
 ### 🌍 **Operating Systems**
-[![OS](https://skillicons.dev/icons?i=linux,windows&theme=dark)](https://skillicons.dev)
+[![OS](https://skill-icons-gcruz.vercel.app/icons?i=linux,windows&theme=dark&animation=true)](https://skill-icons-gcruz.vercel.app)
 
 </td>
 </tr>
