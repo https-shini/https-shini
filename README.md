@@ -246,21 +246,27 @@ class GuilhermeCruz:
 </div>
 -->
 
+
 ---
 
-## 🎯 **Goals for 2025 and 2026**
+## 🎯 **Goals & Professional Roadmap | 2026 – 2027**
 
-<div align="center">
+Continuous learning, practical experience, and professional growth. Here are some milestones I've achieved and goals I'm working towards.
 
-| 🚀 **Objetivo** | 📝 **Status** | 💭 **Por que é importante** |
-|------------|---------------|----------------------|
-| Garantia de Qualidade de Software | 🔄 Em estudo | Construir soluções mais robustas e confiáveis. |
-| Desenvolvimento Web e Mobile | 🔄 Em estudo | Entregar código mais limpo, otimizado e eficiente. |
-| Banco de Dados | 🔄 Em estudo | Melhorar o gerenciamento e otimizar a informação de forma eficiente. |
-| Crescer profissionalmente | 🔄 Em andamento | Aplicar teoria na prática e se desenvolver profissionalmente. |
-| Fluência em Inglês | 🔄 Em andamento | Ampliar oportunidades e acessar conhecimento global. |
-| Concluir a Graduação | 📅 Planejado | Construir uma base sólida para uma carreira de sucesso. |
-| Contribuir para Open Source | 💡 Idealizando | Compartilhar conhecimento e colaborar com a comunidade. |
+| Goal | Status | Purpose |
+|:---|:---:|:---|
+| 🎓 Technical Degree in Systems Development | ✅ Completed | Graduated from ETEC Vila Formosa. |
+| 💻 Full Stack Development | ✅ Completed | Built applications integrating frontend and backend technologies. |
+| ⚛️ React & TypeScript | ✅ Completed | Developed modern web applications using React, TypeScript, and Vite. |
+| 🔌 REST API Development | ✅ Completed | Built APIs using FastAPI, Node.js, and JWT authentication. |
+| 🐳 Docker & CI/CD | ✅ Completed | Applied containerization, automated workflows, and deployment in personal projects. |
+| 🧪 Software Quality Assurance | 🔄 In Progress | Improve software testing, automation, and quality engineering skills. |
+| 🗄️ Database Engineering | 🔄 In Progress | Deepen knowledge of SQL, database modeling, and query optimization. |
+| 🌐 Web & Mobile Development | 🔄 In Progress | Build scalable, responsive, and efficient applications. |
+| 🌎 English Fluency | 🔄 Ongoing | Improve communication and expand international opportunities. |
+| 🎓 Computer Science Degree | 📅 Planned | Complete my undergraduate degree. |
+| 🏗️ Software Architecture | 💡 Planning | Learn design patterns and scalable software architectures. |
+| 🤝 Open Source Contributions | 💡 Planning | Collaborate with projects and contribute to the developer community. |
 
 </div>
 
