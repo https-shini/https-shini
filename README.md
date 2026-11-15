@@ -106,102 +106,90 @@ class GuilhermeCruz:
 ## 🚀 **My Favorite Projects**
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 **Chat em Tempo Real**
-**Aplicação de mensagens instantâneas**
-
-Sistema de chat web onde usuários podem conversar em tempo real entre usuários através da internet., similar ao WhatsApp no navegador.
-
-**Frontend:** HTML5 • CSS3 • JavaScript <br>
-**Backend:** Node.js • WebSocket • dotenv <br>
-**Destaque:** Comunicação instantânea <br>
-
-[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini/web-chat)
-[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://chat-frontend-g42t.onrender.com)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏃‍♂️ **Gestão de Atletismo**
-**Sistema para competições esportivas**
-
-Software desktop completo para cadastro de atletas, gerenciamento de competições e análise estatística.
-
-**Linguagem de Programação:** Java <br>
-**Framework Gráfico:** Java Swing <br>
-**Estrutura de Dados:** ArrayList, Pilha, Fila <br>
-**Destaque:** Análise de dados integrada <br>
-
-[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini/Atletismo-Java)
-[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini/Atletismo-Java/archive/refs/heads/main.zip)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💰 **Controle Financeiro**
-**Dashboard para gestão de finanças**
-
-Interface intuitiva para controlar receitas e gastos pessoais com visualização clara dos dados financeiros utilizando um sistema de controle de finanças desenvolvido utilizando React JS. 
-
-**Stack:** HTML • CSS • JavaScript • ReactJS  
-**Destaque:** Interface moderna e responsiva
-
-<br>
-
-[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini/financas-reactjs)
-[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://financas-reactjs.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍿 **Filmes Explorer**
-**Sistema para explorar e descobrir filmes**
-
-Plataforma que permite explorar e descobrir filmes, utilizando ReactJS e consumindo a API do TMDB. O aplicativo permite que os usuários busquem por filmes, visualizem detalhes específicos e naveguem entre diferentes páginas.
-
-**Stack:** HTML • CSS • JavaScript • ReactJS • Vite • TMDB API
-**Destaque:** Integração em tempo real
-
-[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini/movies_lib)
-[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://movieslib-krd.vercel.app)
-
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 **Jogo da Memória**
-**Game temático interativo**
-
-Jogo da memória com design moderno e mecânicas envolventes para treinar a concentração.
-
-**Stack:** HTML • CSS • JavaScript
-**Destaque:** Experiência de usuário otimizada
-
-[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini/memory-game)
-[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://https-shini.github.io/memory-game)
-
-</td>
-<td width="50%" valign="top">
-
-### 👾 **Space Invaders**
-**Clássico arcade modernizado**
-
-Recriação do famoso jogo Space Invaders com gráficos atualizados e jogabilidade suave.
-
-**Stack:** HTML • CSS • JavaScript  
-**Destaque:** Física de jogo implementada
-
-[![Acessar Repositório](https://custom-icon-badges.demolab.com/badge/-Repository-FF00FF?style=for-the-badge&logo=mark-github&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://github.com/https-shini/space-invaders)
-[![Acessar Projeto](https://custom-icon-badges.demolab.com/badge/-Project-00FFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1A1B3A&color=6366F1)](https://https-shini.github.io/space-invaders)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 Web Chat</h3>
+      <p><em>Chat anônimo em tempo real</em></p>
+      <p>Sala de conversa única, efêmera e anônima: as mensagens chegam aos participantes na hora, via WebSocket. Frontend em JavaScript nativo (sem framework) e backend em Node.js, com qualidade e segurança automatizadas por CI, CodeQL e linters.</p>
+      <p>
+        <strong>Stack:</strong> JavaScript • Node.js • WebSocket • Vite • ESLint • Prettier • Stylelint • GitHub Actions • CodeQL<br>
+        <strong>Destaques:</strong> comunicação bidirecional em tempo real • CI e análise de segurança automatizadas
+      </p>
+      <p>
+        <a href="https://github.com/https-shini/web-chat"><img alt="Acessar Repositório" src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Reposit%C3%B3rio-FF00FF?style=for-the-badge&amp;logo=mark-github&amp;logoColor=white&amp;labelColor=1A1B3A&amp;color=6366F1"></a>
+        <a href="https://chat-frontend-g42t.onrender.com"><img alt="Acessar Projeto" src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Projeto-00FFFF?style=for-the-badge&amp;logo=rocket&amp;logoColor=white&amp;labelColor=1A1B3A&amp;color=6366F1"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 AuthService</h3>
+      <p><em>Autenticação full stack com JWT</em></p>
+      <p>Serviço de autenticação completo: API REST em FastAPI com registro de usuários, login com token JWT e rota protegida, senhas com hash bcrypt e validação de dados com Pydantic. O frontend, no tema Dark Industrial Terminal, traz dashboard do usuário e painel de status que monitora os endpoints, tudo servido por um único container Docker.</p>
+      <p>
+        <strong>Stack:</strong> Python • FastAPI • Pydantic • JWT • bcrypt • Docker • HTML • CSS • JavaScript<br>
+        <strong>Destaques:</strong> arquitetura em camadas • painel de status com latência por endpoint
+      </p>
+      <p>
+        <a href="https://github.com/https-shini/AuthService"><img alt="Acessar Repositório" src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Reposit%C3%B3rio-FF00FF?style=for-the-badge&amp;logo=mark-github&amp;logoColor=white&amp;labelColor=1A1B3A&amp;color=6366F1"></a>
+        <a href="https://authservice-mbul.onrender.com"><img alt="Acessar Projeto" src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Projeto-00FFFF?style=for-the-badge&amp;logo=rocket&amp;logoColor=white&amp;labelColor=1A1B3A&amp;color=6366F1"></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍳 Portal-Receitas</h3>
+      <p><em>Homemade Gourmet: portal de receitas com Clean Architecture</em></p>
+      <p>Nascido como TCC na ETEC Vila Formosa (2022) e reescrito em 2026 sobre Clean Architecture em PHP 8.2. Cada receita tem página própria, com receitas relacionadas e vídeo com consentimento por clique (LGPD); os usuários podem favoritar, avaliar e comentar. Senhas com bcrypt, testes automatizados, CI e deploy com Docker.</p>
+      <p>
+        <strong>Stack:</strong> PHP 8.2 • Clean Architecture • MariaDB • React • Docker • GitHub Actions<br>
+        <strong>Destaques:</strong> evolução de um TCC para uma arquitetura em camadas • imagem Docker validada por smoke test no CI
+      </p>
+      <p>
+        <a href="https://github.com/https-shini/Portal-Receitas"><img alt="Acessar Repositório" src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Reposit%C3%B3rio-FF00FF?style=for-the-badge&amp;logo=mark-github&amp;logoColor=white&amp;labelColor=1A1B3A&amp;color=6366F1"></a>
+        <a href="https://portal-receitas.onrender.com"><img alt="Acessar Projeto" src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Projeto-00FFFF?style=for-the-badge&amp;logo=rocket&amp;logoColor=white&amp;labelColor=1A1B3A&amp;color=6366F1"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 skill-icons (fork)</h3>
+      <p><em>Ícones de tecnologias para READMEs e currículos</em></p>
+      <p>Fork de <a href="https://github.com/tandpfun/skill-icons">tandpfun/skill-icons</a> mantido por mim: mais de 250 ícones de tecnologias em SVG com temas claro e escuro, API de composição para READMEs e currículos e um site para buscar, gerar snippets e baixar em SVG, PNG e WebP. Créditos ao projeto original.</p>
+      <p>
+        <strong>Stack:</strong> SVG • JavaScript • Vercel<br>
+        <strong>Destaques:</strong> catálogo ampliado com 19 categorias • exportação em SVG, PNG e WebP
+      </p>
+      <p>
+        <a href="https://github.com/https-shini/skill-icons"><img alt="Acessar Repositório" src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Reposit%C3%B3rio-FF00FF?style=for-the-badge&amp;logo=mark-github&amp;logoColor=white&amp;labelColor=1A1B3A&amp;color=6366F1"></a>
+        <a href="https://skill-icons-gcruz.vercel.app"><img alt="Acessar Projeto" src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Projeto-00FFFF?style=for-the-badge&amp;logo=rocket&amp;logoColor=white&amp;labelColor=1A1B3A&amp;color=6366F1"></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 Controle Financeiro</h3>
+      <p><em>Dashboard de finanças pessoais</em></p>
+      <p>Dashboard em React para controlar receitas e despesas pessoais, com visualização clara dos dados financeiros. Interface moderna e responsiva, publicada na Vercel.</p>
+      <p>
+        <strong>Stack:</strong> React • JavaScript • HTML • CSS<br>
+        <strong>Destaques:</strong> interface responsiva • leitura rápida de receitas e despesas
+      </p>
+      <p>
+        <a href="https://github.com/https-shini/financas-reactjs"><img alt="Acessar Repositório" src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Reposit%C3%B3rio-FF00FF?style=for-the-badge&amp;logo=mark-github&amp;logoColor=white&amp;labelColor=1A1B3A&amp;color=6366F1"></a>
+        <a href="https://financas-reactjs.vercel.app"><img alt="Acessar Projeto" src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Projeto-00FFFF?style=for-the-badge&amp;logo=rocket&amp;logoColor=white&amp;labelColor=1A1B3A&amp;color=6366F1"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 Cinelux</h3>
+      <p><em>Biblioteca de filmes com React e TypeScript</em></p>
+      <p>Biblioteca de filmes em React, TypeScript e Vite com dados da API do TMDB, hooks e React Router. Inclui busca e detalhes dos filmes, classificação indicativa do Brasil, acessibilidade, testes de componentes e otimizações de desempenho: cache, imagens responsivas e divisão por rota.</p>
+      <p>
+        <strong>Stack:</strong> React • TypeScript • Vite • React Router • TMDB API<br>
+        <strong>Destaques:</strong> acessibilidade • testes de componentes • performance
+      </p>
+      <p>
+        <a href="https://github.com/https-shini/movies_lib"><img alt="Acessar Repositório" src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Reposit%C3%B3rio-FF00FF?style=for-the-badge&amp;logo=mark-github&amp;logoColor=white&amp;labelColor=1A1B3A&amp;color=6366F1"></a>
+        <a href="https://movieslib-krd.vercel.app"><img alt="Acessar Projeto" src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Projeto-00FFFF?style=for-the-badge&amp;logo=rocket&amp;logoColor=white&amp;labelColor=1A1B3A&amp;color=6366F1"></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
